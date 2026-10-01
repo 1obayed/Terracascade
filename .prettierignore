@@ -1,0 +1,11 @@
+node_modules
+.next
+out
+.npm-cache
+.pip-cache
+backend/.venv
+public/data
+public/vendor
+package-lock.json
+test-results
+playwright-report
