@@ -462,7 +462,7 @@ We want to understand what is happening now and help people prepare for what may
 TerraCascade was developed by Team Voyage.
 
 Md Obayed Reza Hridoy  
-Team Lead and System Architecture
+Team Lead and System Architect
 
 Siam Abdullah  
 ML Research Lead
